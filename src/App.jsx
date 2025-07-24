@@ -10,6 +10,12 @@ import MarketPrices from "@/components/pages/MarketPrices";
 import Weather from "@/components/pages/Weather";
 import IrrigationCalendar from "@/components/pages/IrrigationCalendar";
 function App() {
+
+  let a = 1;
+  if (a == 1) { 
+    
+  }
+
   return (
     <Router>
       <div className="min-h-screen bg-background flex">
